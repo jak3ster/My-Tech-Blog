@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "![License Badge](https://img.shields.io/github/license/jak3ster/My-Tech-Blog) ![Top Language](https://img.shields.io/github/languages/top/jak3ster/My-Tech-Blog)",
   "main": "server.js",
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -14,7 +18,7 @@
     "url": "git+https://github.com/jak3ster/My-Tech-Blog.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jay Autus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jak3ster/My-Tech-Blog/issues"
@@ -31,6 +35,7 @@
     "sequelize": "^6.6.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.18"
+	"nodemon": "^2.0.7",
+	"sequelize-cli": "^6.2.0"
   }
 }
