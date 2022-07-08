@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3001;
 const hbs = exphbs.create({ helpers });
 
 const sess = {
-    secret: 'the apple never falls far from the tree',
+    secret: 'The apple never falls far from the tree',
     cookie: { maxAge: null },
     resave: false,
     saveUninitialized: true,

@@ -1,7 +1,7 @@
 {
   "name": "my-tech-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "![License Badge](https://img.shields.io/github/license/jak3ster/My-Tech-Blog) ![Top Language](https://img.shields.io/github/languages/top/jak3ster/My-Tech-Blog)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
