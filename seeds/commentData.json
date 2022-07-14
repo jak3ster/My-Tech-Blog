@@ -1,0 +1,17 @@
+[
+    {
+        "comment_text": "Apples are used as a symbol for everything from beauty, to knowledge, to original sin..",
+        "user_id": 1,
+        "post_id": 1
+    },
+    {
+        "comment_text": "Orange juice is an important part of many people's breakfast.",
+        "user_id": 2,
+        "post_id": 2
+    },
+    {
+        "comment_text": "It is recommended that individuals eat a serving of 8 strawberries a day!",
+        "user_id": 3,
+        "post_id": 3
+    }
+]

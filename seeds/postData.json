@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Apples",
+        "content": "Rich in fiber and antioxidants.",
+        "user_id": 1
+    },
+    {
+        "title": "Oranges",
+        "content": "Fibers keep blood sugar levels in check and reduce high cholesterol to prevent cardiovascular disease.",
+        "user_id": 2
+    },
+    {
+        "title": "Strawberry",
+        "content": "Good source of potassium, manganese, folic acid, and fiber.",
+        "user_id": 3
+    }
+]
