@@ -1,0 +1,39 @@
+{
+  "name": "my-tech-blog",
+  "version": "1.0.0",
+  "description": "![License Badge](https://img.shields.io/github/license/jak3ster/My-Tech-Blog) ![Top Language](https://img.shields.io/github/languages/top/jak3ster/My-Tech-Blog)",
+  "main": "server.js",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server",
+    "seed": "node seeds/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jak3ster/My-Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "Jay Autus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jak3ster/My-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/jak3ster/My-Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
