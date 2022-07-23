@@ -43,5 +43,4 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 
 ## License
 
-  Licensed under the [MIT](LICENSE) license.
-=======
+Licensed under the [MIT](LICENSE) license.
